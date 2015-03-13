@@ -13,8 +13,11 @@ Fool proof logging and update system
 
 As this project is meant to make it easy for non-technical users to log the speed of the wind over prolonged periods of time, it should be possible for non-technical users to access and parse the log files and to update the firmware easily. As we already decided to use an SD card to do the logging, programming the bootloader to be able to detect new firmware on the SD card seemed like a good idea...
 This is a photo of the Buttermill as of 2010-03-26
+![](https://github.com/jnweiger/buttermill/raw/master/images/buttermill_board_2010-03-26_800x600.jpg)
 
 A rough sketch of the mast and the proposed box
+![](https://github.com/jnweiger/buttermill/raw/master/images/buttermill_description.jpg)
 
 In the background is a roughly 12m mast with an anemometer at the top
 
+![](https://github.com/jnweiger/buttermill/raw/master/images/project_mast_706x512.JPG)
