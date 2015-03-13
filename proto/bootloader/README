@@ -1,0 +1,12 @@
+The particular version of the bootloader used comes out of the file:
+http://www.mikrocontroller.net/attachment/22787/HolgerBootloader10.zip
+
+This was contributed as part of http://www.mikrocontroller.net/topic/67047.
+According to the author the code is only 1580 bytes and so should easily
+pass in the boot sector of the butterfly, once this has been defined to
+encompass 1024 words (2048 bytes).
+
+This version probably only supports FAT16 formatted SD cards.
+
+An article was written about flashing an updated firmware from the
+bootloader here: http://www.mikrocontroller.net/articles/MMC/SD_Bootloader_f%C3%BCr_AT_Mega
